@@ -162,7 +162,6 @@ namespace guidfy
         {
             Console.WriteLine($"{CommandLine.Text.HeadingInfo.Default}");
             Console.WriteLine($"{CommandLine.Text.CopyrightInfo.Default}\n");
-
         }
     }
 }
